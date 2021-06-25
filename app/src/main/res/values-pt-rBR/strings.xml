@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">AppDevelopment</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string-array name="arrayDevs">
+        <item>Choose an option:</item>
+        <item>Java</item>
+        <item>React</item>
+        <item>React Native</item>
+        <item>Spring</item>
+        <item>Kotlin</item>
+        <item>PHP</item>
+        <item>Node.JS</item>
+        <item>Android Studio</item>
+    </string-array>
+
+    <string name="txtAtencao">Atenção</string>
+
+
+    <string name="textNome">NOME</string>
+    <string name="textHintNome">Digite seu nome... </string>
+    <string name="textEmail">EMAIL</string>
+    <string name="textHintEmail">Digite seu email... </string>
+    <string name="textDesenvolvimento">Desenvolvimento</string>
+    <string name="textHintDescr">Digite seus conhecimentos</string>
+    <string name="spOpcoes">Escolha uma opção</string>
+    <string name="button">Salvar</string>
+
+</resources>
